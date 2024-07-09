@@ -1,0 +1,21 @@
+#heading-pops{
+    font-style:normal;
+    font-weight: 800;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+h2{
+    margin-top: 20px;
+}
+
+.buttons-div{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.btn{
+    margin: 10px;
+}
+.container{
+    width: 80%;
+}
